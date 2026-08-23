@@ -11,6 +11,12 @@
 
 The tool is written in **Rust** for reliability and cross‑compilation ease, and includes a custom x86‑64 assembly stub that handles the actual injection and payload execution.
 
+![execute the injector](/imgs/executeInjector.png)
+_execute the injector_
+
+![capture the reverse shell payload](/imgs/captureConnection.png)
+_capture the reverse shell payload_
+
 ---
 
 ## Features
