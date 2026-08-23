@@ -55,12 +55,14 @@ The tool is written in **Rust** for reliability and cross‑compilation ease, an
 
 ## File Structure
 
+```bash
 ├── src/
 │ ├── main.rs # Entry point – injection logic
 │ ├── core_file.rs # Pattern scanning, process enumeration, pointer encoding
 │ ├── stubs.rs # Binary blobs for the stub and shellcode
 │ └── stub/
 │ └── stub.asm # Assembly source for the injector stub
+```
 
 
 ---
