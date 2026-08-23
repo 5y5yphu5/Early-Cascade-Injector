@@ -95,5 +95,5 @@ This project is intended solely for educational and research purposes. It demons
 
 ## Credits
 
-- [Smukx](https://github.com/Whitecat18/earlycascade-injection)
 - [Inspired by research on early cascade injection by outfalnk.](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/?_gl=1*zoymq3*_up*MQ..*_ga*NjUwNzcyMTc4LjE3ODc1MjI1MzE.*_ga_NHMHGJWX49*czE3ODc1MjI1MzEkbzEkZzAkdDE3ODc1MjI1MzEkajYwJGwwJGgw*_ga_FHB5NMN3M1*czE3ODc1MjI1MzEkbzEkZzAkdDE3ODc1MjI1MzEkajYwJGwwJGgw)
+- [Smukx](https://github.com/Whitecat18/earlycascade-injection)
